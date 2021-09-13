@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: */register
+Disallow: */login
+Disallow: *?*
+Disallow: /orders/
+Disallow: /payment_verifications/
